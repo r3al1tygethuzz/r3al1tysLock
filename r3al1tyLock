@@ -1,6 +1,6 @@
 -- ======= CONFIGURATION =======
 local KeySlots = {
-    {Key = "KEY1", Username = "Player1"}, -- replace KEY1 & Player1
+    {Key = "KEY1", Username = "Au_qrx"}, -- replace KEY1 & Player1
     {Key = "KEY2", Username = "Player2"}, -- replace KEY2 & Player2
     {Key = "KEY3", Username = "Player3"}, -- replace KEY3 & Player3
 }
