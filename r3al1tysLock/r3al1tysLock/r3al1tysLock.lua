@@ -130,8 +130,8 @@ function runAimbot()
         Keybind = 'C',
         Hitpart = 'HumanoidRootPart',
         ['Prediction'] = {
-            X = 0.08,
-            Y = 0.08,
+            X = 0.14,
+            Y = 0.1,
         },
     }
 
