@@ -3,7 +3,8 @@ local KeySlots = {
     {Key = "KEY1", Username = "XenLikeThat"}, -- replace KEY1 & Player1
     {Key = "KEY2", Username = "Au_qrx"}, -- replace KEY2 & Player2
     {Key = "KEY3", Username = "Valhalla3667"},
-    {Key = "KEY4", Username = "Water_man409322"}, -- replace KEY3 & Player3
+    {Key = "KEY4", Username = "Water_man409322"},
+    {Key = "KEY4", Username = "M0n3y_M4k3r0"}, -- replace KEY3 & Player3
 }
 
 local GetKeyLink = "https://discord.gg/PeZDSt7NJG" -- Replace with your link
